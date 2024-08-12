@@ -1,7 +1,1 @@
-@use "config/reset.scss";
-@use "secoes/produtos.scss";
-@use "config/variaveis.scss" as cores; // Alias para as variáveis
-
-body {
-  background-color: cores.$background-color;
-}
+{"version":3,"sourceRoot":"","sources":["../source/secoes/base.scss","../source/config/variaveis.scss","../source/config/header.scss","../source/secoes/produtos.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;EACA,aCJY;;;ADOd;EACE,kBCJiB;;;ADOnB;EACE;;;AAGF;EACE,WCXU;EDYV;EACA;;;AElBF;EACE;EACA;EACA;EACA;;AAEA;EACE;EACA;EACA;EACA;;;AAIJ;EACE;;AAEA;EACE;EACA;;AAEA;EACE;EACA;;;ACvBN;EACE,SFQe;;;AELjB;EACE,YFEW;EEDX;EACA;EACA;EACA;EACA;;AAGE;EACE;EACA,eFPU;;AEUZ;EACE;EACA,kBFlBY;EEmBZ;EACA;EACA;EACA;EACA;EACA;;AAEA;EACE,kBF1BM;;;AEgCd;EACE;IACE;;EAGF;IACE;IACA;;;AAIJ;EACE;IACE;;EAEA;IACE","file":"main.css"}
